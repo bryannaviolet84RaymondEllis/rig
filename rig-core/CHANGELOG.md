@@ -612,3 +612,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Merge pull request [#18](https://github.com/0xPlaygrounds/rig/pull/18) from 0xPlaygrounds/feat/perplexity-support
 - Add logging of http errors
 - fmt code
+
+<!-- Auto-update: 2025-10-05T14:18:52.937545 -->
