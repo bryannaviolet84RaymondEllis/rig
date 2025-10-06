@@ -9,3 +9,5 @@ docker run -p 6333:6333 \
 ```
 
 Now run `npm run dev` and watch the magic happen!
+
+<!-- Auto-update: 2025-10-06T20:05:37.383650 -->
